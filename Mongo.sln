@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoUtility", "MongoUtility", "{35CDB382-DBFC-0C94-A3A9-4D2E5F4A1960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoUtility", "MongoUtility\MongoUtility\MongoUtility.csproj", "{4EE96400-8502-5AD3-1391-B7D3460A1F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE96400-8502-5AD3-1391-B7D3460A1F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE96400-8502-5AD3-1391-B7D3460A1F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE96400-8502-5AD3-1391-B7D3460A1F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE96400-8502-5AD3-1391-B7D3460A1F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4EE96400-8502-5AD3-1391-B7D3460A1F1F} = {35CDB382-DBFC-0C94-A3A9-4D2E5F4A1960}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B989C1-A076-4CE0-A950-535CCECDBD33}
+	EndGlobalSection
+EndGlobal

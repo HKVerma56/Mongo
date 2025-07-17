@@ -1,0 +1,12 @@
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\bin\Debug\net9.0\MongoUtility.deps.json
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\bin\Debug\net9.0\MongoUtility.dll
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\bin\Debug\net9.0\MongoUtility.pdb
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\obj\Debug\net9.0\MongoUtility.csproj.AssemblyReference.cache
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\obj\Debug\net9.0\MongoUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\obj\Debug\net9.0\MongoUtility.AssemblyInfoInputs.cache
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\obj\Debug\net9.0\MongoUtility.AssemblyInfo.cs
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\obj\Debug\net9.0\MongoUtility.csproj.CoreCompileInputs.cache
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\obj\Debug\net9.0\MongoUtility.dll
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\obj\Debug\net9.0\refint\MongoUtility.dll
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\obj\Debug\net9.0\MongoUtility.pdb
+D:\SDE\Programs\Mongo\MongoUtility\MongoUtility\obj\Debug\net9.0\ref\MongoUtility.dll
